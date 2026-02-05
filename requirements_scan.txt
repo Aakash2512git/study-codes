@@ -1,0 +1,6 @@
+# requirements_scan.txt
+
+python-dotenv==1.0.1      # for dotenv / load_dotenv
+requests==2.31.0           # for HTTP requests
+PyYAML==6.0                # for yaml
+toml==0.10.2               # for toml parsing
